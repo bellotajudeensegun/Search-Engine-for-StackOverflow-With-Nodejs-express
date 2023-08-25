@@ -14,6 +14,7 @@ Create the following file structure within your project directory:
 
 
 StackOverflowSearch/
+
   ├── node_modules/
   
   ├── public/
