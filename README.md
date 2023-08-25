@@ -15,12 +15,17 @@ Create the following file structure within your project directory:
 
 StackOverflowSearch/
   ├── node_modules/
+  
   ├── public/
   │     └── index.html
+  
   ├── views/
   │     └── search.ejs
+  
   ├── app.js
+  
   └── package.json
+  
 
 
 Step 3: Obtain Stack Overflow Data
