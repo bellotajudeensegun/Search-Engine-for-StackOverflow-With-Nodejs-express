@@ -1,0 +1,16 @@
+{
+  "name": "StackOverflowSearch",
+  "version": "1.0.0",
+  "description": "Search engine for Stack Overflow with Node.js and Express",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.24.0",
+    "ejs": "^3.1.8"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Segun Bello",
+  "license": "MIT"
+}
